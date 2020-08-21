@@ -43,7 +43,7 @@
           }
         },
         "consciousness": {
-          "value": "Alert",
+          "value": "alert",
           "score": 3
         },
         "temperature": {
