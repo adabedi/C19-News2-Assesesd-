@@ -1,0 +1,59 @@
+{
+  "pateints": [
+    {
+      "id": 1,
+      "news2": {
+        "saturationRate": {
+          "scale": 2,
+          "value": 94,
+          "score": 1,
+          "o2": true,
+          "units": "%"
+        },
+        "respirationRate": {
+          "value": 16,
+          "score": 0,
+          "units": "bpm"
+        },
+        "supplementalO2": {
+          "value": "yes"
+        },
+        "flowRate": {
+          "value": 4,
+          "units": "l/pm"
+        },
+        "device": {
+          "value": "Tracheostomy Mask"
+        },
+        "heartRate": {
+          "value": 100,
+          "score": 1,
+          "units": "bpm"
+        },
+        "bloodPreasure": {
+          "systolic": {
+            "value": 100,
+            "score": 2,
+            "units": "mmHg"
+          },
+          "diastolic": {
+            "value": 80,
+            "score": 0,
+            "units": "mmHg"
+          }
+        },
+        "consciousness": {
+          "value": "Alert",
+          "score": 3
+        },
+        "temperature": {
+          "value": 37.5,
+          "score": 0,
+          "units": "'C"
+        }
+      },
+      "situation": ["Dizzness"],
+      "background": "Well"
+    }
+  ]
+}
