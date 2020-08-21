@@ -1,4 +1,4 @@
-
+{ "assasmets" : [
     {
       "id": 1,
       "news2": {
@@ -54,4 +54,4 @@
       "situation": ["Dizzness"],
       "background": "Well"
     }
-
+]}
